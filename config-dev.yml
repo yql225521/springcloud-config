@@ -1,1 +1,2 @@
-config-dev.yml
+config:
+  info:  this is a springcoloud-config-dev.yml file
